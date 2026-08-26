@@ -157,10 +157,6 @@ The KNN model contains the id's from the database to allow remapping in memory. 
 # Project Vision
 The vision is to include more images from collections around Europe to enable better sharing of resources.
 
-## Contact
-
-For any inquiries, use the ETH Library Lab [contact form](https://www.librarylab.ethz.ch/contact/).
-
 ## License
 
 [MIT](LICENSE)
