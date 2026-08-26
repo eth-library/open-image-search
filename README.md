@@ -1,7 +1,7 @@
 <img src="./assets/grs-title-small.gif"/>
 
 #  Reverse Image Search for Graphical Collections 
-_- in development_ -
+_- historical project / no longer actively maintained_ -
 
 > **Project status**
 >
@@ -17,8 +17,6 @@ _- in development_ -
 > Google Cloud infrastructure.
 
 Image Retrieval / Reverse Image Search Application for finding digitised print metadata. Made to support workflows at graphical collections and museums.  
-
-The application is hosted online at https://imagesearch.ellprototypes.ch where you can upload your own pictures to find visually similar prints from a database of over 20,0000 prints from the Graphische Sammlung of ETH Zürich.  
 
 <img src="./assets/graph-samm-example-search-cropped.gif" height="400px"/>
 
