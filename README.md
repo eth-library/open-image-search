@@ -3,6 +3,18 @@
 #  Reverse Image Search for Graphical Collections 
 _- in development_ -
 
+> **Project status**
+>
+> This repository contains the historical source code of the Open Image Search
+> prototype developed by the former ETH Library Lab.
+>
+> The repository was transferred to the ETH Library GitHub organization in
+> August 2026 for institutional preservation. The original service is no longer
+> actively maintained or operated.
+>
+> A future reactivation would require a new development and deployment project;
+> this repository does not represent a directly deployable backup of the former
+> Google Cloud infrastructure.
 
 Image Retrieval / Reverse Image Search Application for finding digitised print metadata. Made to support workflows at graphical collections and museums.  
 
@@ -16,7 +28,7 @@ It is also possible to clone the project to run locally on your own computer. Th
 
 1. open a terminal in a directory where you want to save the project to
 ```shell
-git clone https://github.com/eth-library-lab/open-image-search.git
+git clone https://github.com/eth-library/open-image-search.git
 cd open-image-search
 ```
 2. copy the images that you want to add to the database into this folder
